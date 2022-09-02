@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace Task2
+namespace Task3
 {
     /// <summary>
     /// Класс для подсчёта размера и количества файлов в каталоге
