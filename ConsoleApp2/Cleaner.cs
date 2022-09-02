@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Task3
 {
+    /// <summary>
+    /// Класс для удаления всех файлов из каталога
+    /// </summary>
     class Cleaner
     {
         public static string DirName { get; set; }
